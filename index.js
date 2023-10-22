@@ -21,3 +21,12 @@ console.log(isNaN(myPhoneNumber));
 if(isNaN(myPhoneNumber)){
     console.log('Please enter a valid phone number');
 }
+
+//Operatoras
+console.log(5+20);
+// 5&20 is operand and + is operator and whole 5+20 is Expression
+var x = 5 ; 
+var y = 8;
+console.log("is both the x and y are equal" + x == y); 
+// 30 will give me false because of concatenation
+console.log("Is both the x and y are equal : ${x == y}");
