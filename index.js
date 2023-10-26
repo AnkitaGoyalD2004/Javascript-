@@ -2,7 +2,7 @@ console.log("Hello World");
 var myName = 'Ankita Goyal';
 console.log(myName);
 // there is a type of operator 
-// which tells us a data type of a var
+// which tells us a data type of a var  
 console.log(typeof(myName));
 
 // Lets checkout some data types example
@@ -28,5 +28,5 @@ console.log(5+20);
 var x = 5 ; 
 var y = 8;
 console.log("is both the x and y are equal" + x == y); 
-// 30 will give me false because of concatenation
+// line 30 will give me false because of concatenation
 console.log("Is both the x and y are equal : ${x == y}");
