@@ -14,7 +14,6 @@ console.log('Ankita' + 'Goyal');
 console.log(true + true);// this gives me an output of 2
 console.log(false - true);// this gives me -1
 
-
 //Lets see the use of NaN
 var myPhoneNumber = 'Dishu Goyal';
 console.log(isNaN(myPhoneNumber));
@@ -30,3 +29,5 @@ var y = 8;
 console.log("is both the x and y are equal" + x == y); 
 // line 30 will give me false because of concatenation
 console.log("Is both the x and y are equal : ${x == y}");
+
+
