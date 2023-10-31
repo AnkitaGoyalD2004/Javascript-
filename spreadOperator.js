@@ -3,3 +3,9 @@
 const name = "ankita";
 const letter = [...name];
 console.log(letter);
+
+const names = ["Diya", "jyoti", "Tashu", "Dishu"];
+const altNames = ["Nitasha", "Ankita"];
+const combine = [...names, ...altNames];
+
+console.log(combine);
